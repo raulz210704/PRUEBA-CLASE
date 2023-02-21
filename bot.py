@@ -27,7 +27,7 @@ usuario = 'root'
 contraseña = ''
 
 TOKEN = "NzkyNzgyODI5NzYyOTA0MDc1.G6OLwa.26466ZtnX-2gPLdgQUcg7JENW3O9hhg78xDSQ8"
-#TOKEN = "MTA2OTg3NzkxNTQ5NzUzNzU0Ng.G__yEd.NBvGw1XuJ2y5eWQ5YtshoZL2VrrO0ec17wsLZo"
+
 
 
 try:
